@@ -4,8 +4,9 @@ A smart skincare scheduler that tracks your active ingredient usage to prevent s
 
 ## Demo
 
-*(Add screenshots of your UI here)*
-- `dashboard.png`
+![Dashboard](./images/dashboard.png)
+
+![Activity logs](./images/logs.png)
 
 ## Product context
 
