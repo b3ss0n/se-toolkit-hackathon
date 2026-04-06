@@ -41,7 +41,7 @@ A smart skincare scheduler that tracks your active ingredient usage to prevent s
 **What should be installed on the VM:** Docker, Docker Compose
 
 **Step-by-step deployment instructions:**
-1. Clone the repository: `git clone https://github.com/<your-username>/se-toolkit-hackathon.git`
+1. Clone the repository: `git clone https://github.com/b3ss0n/se-toolkit-hackathon.git`
 2. Navigate into the directory: `cd se-toolkit-hackathon`
 3. Build and run the containers: `docker compose up --build -d`
 4. Access the application via web browser at: `http://<your-vm-ip>:8000`
