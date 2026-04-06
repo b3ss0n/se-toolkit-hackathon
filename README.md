@@ -4,9 +4,9 @@ A smart skincare scheduler that tracks your active ingredient usage to prevent s
 
 ## Demo
 
-![Dashboard](./images/dashboard.png)
+![Dashboard](./images/dashboard.PNG)
 
-![Activity logs](./images/logs.png)
+![Activity logs](./images/logs.PNG)
 
 ## Product context
 
@@ -22,7 +22,7 @@ A smart skincare scheduler that tracks your active ingredient usage to prevent s
 - Custom schedule generation and cycle mapping
 - Daily routine calculation based on previous usage
 - Command history and timestamp logging
-- Dockerized deployment
+- Dockerized deployment.
 
 **Not yet implemented features:**
 - Multi-user authentication and individual accounts
