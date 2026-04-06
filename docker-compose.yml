@@ -1,0 +1,8 @@
+services:
+  backend:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./skincare_app.db:/app/skincare_app.db
+      - ./index.html:/app/index.html
